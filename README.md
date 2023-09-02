@@ -1,2 +1,2 @@
 
-file:///C:/Users/den_i/OneDrive/Рабочий%20стол/ТЗ%20по%20React%20(2).pdf
+[ТЗ по React.pdf](https://github.com/Denison1526/Pomodoro/files/12504051/React.pdf)
